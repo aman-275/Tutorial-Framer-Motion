@@ -39,3 +39,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### `source and contribution`
 
 All the images and source are taken from youtuber Aldar Satori.
+
+Thanks 
